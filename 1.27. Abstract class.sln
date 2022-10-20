@@ -5,7 +5,7 @@ VisualStudioVersion = 17.3.32922.545
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animals", "Animals\Animals.csproj", "{AB8DA41E-4AB9-47BE-BCFC-A73EB6D0A373}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animals.Tests", "AnimalsInZooTest\Animals.Tests.csproj", "{AA42E519-5896-48E1-986B-940FF3FDD13B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Animals.Tests", "Animals.Tests\Animals.Tests.csproj", "{57AE1355-B3D4-4677-91FC-332594CFBB66}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{AB8DA41E-4AB9-47BE-BCFC-A73EB6D0A373}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AB8DA41E-4AB9-47BE-BCFC-A73EB6D0A373}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AB8DA41E-4AB9-47BE-BCFC-A73EB6D0A373}.Release|Any CPU.Build.0 = Release|Any CPU
-		{AA42E519-5896-48E1-986B-940FF3FDD13B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AA42E519-5896-48E1-986B-940FF3FDD13B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{AA42E519-5896-48E1-986B-940FF3FDD13B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{AA42E519-5896-48E1-986B-940FF3FDD13B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57AE1355-B3D4-4677-91FC-332594CFBB66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57AE1355-B3D4-4677-91FC-332594CFBB66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57AE1355-B3D4-4677-91FC-332594CFBB66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57AE1355-B3D4-4677-91FC-332594CFBB66}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
